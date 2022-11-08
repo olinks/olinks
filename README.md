@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @olinks
-- 👀 I’m interested in Blockchain Development 
-- 🌱 I’m currently learning Solidity, ReactJs, Rust.
+- 👋 Hi, I’m Yinka
+- 👀 I’m Proficient in PHP, Solidity and ReactJs.
+- 😎 I Create Smart Contracts, Dapps and Portals
 - 💞️ I’m looking to collaborate on Web3 Projects
-- 📫 Contact email: olinkstech@gmail.com 🐦: @_olinks
-<!--- https://www.youtube.com/watch?v=Hh1atKEzNWs --->
+- 📫 Contact email: olinkstech@gmail.com
 
 <!---
 olinks/olinks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
