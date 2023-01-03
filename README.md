@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Yinka
 - 👀 I’m Proficient in PHP, Solidity and ReactJs.
-- 😎 I Create Smart Contracts, Dapps and Portals
+- I build Management Portals.
+- 😎 I Create Smart Contracts, Dapps.
 - 💞️ I’m looking to collaborate on Web3 Projects
 - 📫 Contact email: olinkstech@gmail.com
 
