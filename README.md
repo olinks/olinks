@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yinka
+- 👋 Hi, I’m olinks
 - 👀 I’m Proficient in PHP, Solidity and ReactJs.
 - I build Management Portals.
 - 😎 I Create Smart Contracts, Dapps.
