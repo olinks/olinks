@@ -1,14 +1,11 @@
+
+### Hi there 👋  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=olinks/olinks">
 - 👋 Hi, I’m olinks
 - 👀 I’m Proficient in PHP, Solidity and ReactJs.
 - I build Management Portals.
 - 😎 I Create Smart Contracts, Dapps.
 - 💞️ I’m looking to collaborate on Web3 Projects
 - 📫 Contact email: olinkstech@gmail.com
-
-
-
-### Hi there 👋  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=olinks/olinks">
-
 - 📫 How to reach me: 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
