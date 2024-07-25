@@ -1,7 +1,7 @@
 
 ### Hi there 👋  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=olinks/olinks">
 - 👋 Hi, I’m olinks
-- 👀 I’m Proficient in PHP, Solidity and ReactJs.
+- 👀 I’m Proficient in NodeJS, Solidity, ReactJs, EtherJs, Web3 and Solana.
 - I build Management Portals.
 - 😎 I Create Smart Contracts, Dapps.
 - 💞️ I’m looking to collaborate on Web3 Projects
