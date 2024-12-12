@@ -4,6 +4,7 @@
 - 👀 I’m Proficient in NodeJS, Solidity, ReactJs, EtherJs, Web3 and Solana.
 - I build Management Portals.
 - 😎 I Create Smart Contracts, Dapps.
+- I build Telegram Bot e.g Trading Bots, Moderator Bots, Telegram Mini Apps
 - 💞️ I’m looking to collaborate on Web3 Projects
 - 📫 Contact email: olinkstech@gmail.com
 - 📫 How to reach me: 
